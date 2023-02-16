@@ -6,6 +6,6 @@ public class WelcomeMessage {
     }
 
     public String getWishMessage(String name){
-        return "welcome to hydrabad Mr:"+name;
+        return "welcome to hydrabad Mr:";
     }
 }
